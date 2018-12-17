@@ -5,8 +5,10 @@
 ## TOOLS
 
 [RUST](https://www.rust-lang.org) (with cargo --> package mnager)
+
 Postgresql
-[Rocket] (https://rocket.rs) (web framework for Rust)
+
+[Rocket](https://rocket.rs) (web framework for Rust)
 
 ## Install
 
@@ -15,6 +17,6 @@ Postgresql
 3. Edit the connexion string in the .env file
 4. Lunch the project with "cargo run" from your main directory
 
-##Usage
+## Usage
 
 This is just a little project to train myself with rust and Rocket. Easy to setup, Rocket is a realy good framework !
