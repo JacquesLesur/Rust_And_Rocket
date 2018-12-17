@@ -1,0 +1,11 @@
+[package]
+name = "RocketProject"
+version = "0.1.0"
+authors = ["JacquesLesur <lesurjacques@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.0"
+postgres = "0.15"
+diesel = { version = "1.0.0", features = ["postgres"] }
+dotenv = "0.10.0"
